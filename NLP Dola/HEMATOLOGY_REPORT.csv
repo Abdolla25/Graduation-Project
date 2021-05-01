@@ -1,0 +1,35 @@
+BlooHed Picture,Reference,Range
+Hgb(Hemoglobin)   ,13.5,"13.2 - 17.3 g/dl
+"
+RBCs(Red Blood Cells)     ,4.9,"4.3 - 5.7 x100^3 Cells/Ml
+"
+Hct(Hematrocrit)      ,45.6,"39 - 49 %
+"
+MCV      ,93.06,"80 - 100 fL/cell
+"
+MCH     ,27.55,"27 -  34 pg/cell
+"
+MCHC     ,29.61,"32 - 37 g/dl
+"
+RDW      ,13.2,"11.5 - 14.5 %
+"
+Plt(Platelet)    ,352,"150 -  440 x 10^3/mm^3
+"
+Pct       ,0.360,"0.100 -0.500  %
+"
+MPV ,10.23,"8.0 - 12.0  fL
+"
+PDW ,14.3,"10.0 - 18.0 %
+"
+WBCs (leukoCytes)    ,6.0,"4.5 - 13.0 x 10^3 / mm^3
+"
+Test,Relative count %,Absolute count K/ul
+Neutrophil   ,57  35 - 80,"3.42 1.8 - 8.0
+"
+Lymphocytes   ,33 25 - 45,"1.98  1.5 - 6.5
+"
+Monocytes   ,9  0 - 10,"0.54  0.2 - 0.9
+"
+Eosinophils   ,1  0 - 3,"0.06 0 - 0.8
+"
+Basophils   ,0  0-1,0  0 - 0.1
