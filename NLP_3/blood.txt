@@ -1,0 +1,21 @@
+Blood
+Compoenet Results
+Component Value Standard Range Units
+RBC_COUNT 7.04  4.7-6  10^6/ul
+HGB_COUNT 15.6  13.5-18  g/dl
+HCT 53.1  37-47  %
+MCV 75  78-99  um^3
+MCH 22.1  27-31  pg
+MCHC 29.2  32-36  g/dl
+RDW 13.21  1.5-14.5  %
+WBC 8.8  4-10.5  10^3/ul
+%LYM 35.9  20-45  %
+#LYM 3.1  1.2-3.2  10^3/ul
+%MON 5.3  1-8  %
+#MON 0.4  0.3-0  10^3/ul.8
+%GRA 58.8  52-76  %
+#GRA 5.3  1.6-7.2  10^3/ul
+PLT 213  140-440  10^3/ul
+MPV 8.2  7.4-10.4  um^3
+PCT 0.175  0.1-0.5  %
+PDW 16.1  9-14  %
